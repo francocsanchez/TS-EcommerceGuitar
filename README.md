@@ -22,7 +22,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tu_usuario/ecommerce-guitarra.git
+    git clone https://github.com/francocsanchez/TS-EcommerceGuitar.git
     ```
 
 2. Navega hasta el directorio del proyecto:
