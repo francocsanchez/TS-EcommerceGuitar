@@ -1,4 +1,11 @@
-export default function Product({ product, addToCart }) {
+import type { Guitar } from "../types";
+
+type ProductProps = {
+  product: Guitar;
+  addToCart: (product: Guitar) => void;
+};
+
+export default function Product({ product, addToCart }: ProductProps) {
   return (
     <div
       className="col-md-6 col-lg-4 my-4 row align-products-center"
