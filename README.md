@@ -3,7 +3,7 @@
 ## Descripción del Proyecto:
 Este proyecto es parte del curso **React y TypeScript - La Guía Completa Creando +10 Proyectos** en Udemy. Se trata de un sistema de comercio electrónico para la venta de guitarras, desarrollado utilizando React.js y TypeScript.
 
-![Curso en Udemy](https://imgur.com/ejemplo)  
+![Curso en Udemy](https://codigoconjuan.com/wp-content/uploads/2019/07/ImagenCurso-700x400.jpg)  
 [Curso en Udemy](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.ES_cc.LATAM&utm_term=_._ag_121424001339_._ad_515898216143_._kw__._de_c_._dm__._pl__._ti_dsa-1190286617479_._li_1000099_._pd__._&matchtype=&gad_source=1&gclid=EAIaIQobChMIydqHhLrRhQMVZhqtBh0ZtAyAEAAYASAAEgK_EfD_BwE&couponCode=2021PM25)
 
 ## Tecnologías Utilizadas:
